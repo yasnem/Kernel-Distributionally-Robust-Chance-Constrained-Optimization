@@ -1,0 +1,13 @@
+# fig style for scientific papers based on JZs style
+# how to use: plt.style.use('jz'); cf: https://matplotlib.org/tutorials/introductory/customizing.htmls
+axes.titlesize : 11
+axes.labelsize : 11
+axes.linewidth : 0.75
+lines.linewidth : 1.5
+lines.markersize : 4
+xtick.labelsize : 8
+ytick.labelsize : 8
+# figure.figsize   : 2.613, 2.613   ## figure size in inches
+figure.dpi       : 300        ## figure dots per inch
+text.usetex     : True
+
